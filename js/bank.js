@@ -18,3 +18,10 @@ document.getElementById("login-submit").addEventListener('click',function(){
 }
     
 })
+
+//deposit button handler
+
+document.getElementById('deposit-button').addEventListener('click',function(){
+          console.log("deposit button clicked")
+          
+})
